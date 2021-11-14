@@ -3,6 +3,7 @@
 
 - 🔭 Atualmente busco minha primeira oportunidade em Front-end!
 - 🌱 Estudando HTML, CSS e JavaScript!
+- 📜 <a href="https://edmilsondmx.github.io/projeto-portifolio/" target="_blank" rel="external">Meu Portifólio</a></br>
 
 <div align="center">
   <a href="https://github.com/edmilsondmx">
