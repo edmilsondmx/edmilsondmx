@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/edmilsondmx">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=edmilsondmx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=edmilsondmx&show_icons=true&theme=dark&locale=en" alt="edmilsondmx"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmilsondmx&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
