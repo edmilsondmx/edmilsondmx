@@ -30,7 +30,7 @@
   <a href="https://m.facebook.com/profile.php?id=100002829021506" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
  
 </div>
-
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{edmilsondmx}/count.svg" /></p> 
 <div>
   
   <img align="center" alt="mario" max-width="500em" src="https://github.com/edmilsondmx/projeto-portifolio/blob/main/imagem/IMG_0800.GIF?raw=true">
