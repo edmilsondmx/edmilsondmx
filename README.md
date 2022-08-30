@@ -23,6 +23,7 @@
   <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="40" width="40" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png">
   <img align="center" alt="CSharp" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png">
+  <img align="center" alt="CSharp" height="40" width="40" src="https://adrianwilczynski.gallerycdn.vsassets.io/extensions/adrianwilczynski/asp-net-core-snippet-pack/1.51.0/1586892181474/Microsoft.VisualStudio.Services.Icons.Default">
   <img align="center" alt="sql" height="45" width="45" src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png">
   <img align="center" alt="sql" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5108/5108922.png">
   <img align="center" alt="sql" height="45" width="45" src="https://cdn-icons-png.flaticon.com/512/1199/1199128.png">
