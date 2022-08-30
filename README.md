@@ -22,6 +22,9 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="30" width="30" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png">
+  <img align="center" alt="CSharp" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png">
+  <img align="center" alt="sql" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png">
+  <img align="center" alt="sql" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5108/5108922.png">
  
   
   
