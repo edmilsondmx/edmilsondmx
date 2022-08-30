@@ -10,7 +10,7 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=edmilsondmx&show_icons=true&theme=dark&locale=en" alt="edmilsondmx"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmilsondmx&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
+<h2>Tecnologias</h1>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="40" width="40" src="https://miro.medium.com/max/256/1*3H6_a9Srb655m3NiqlbbKQ.png">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,6 +25,7 @@
   <img align="center" alt="CSharp" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png">
   <img align="center" alt="sql" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png">
   <img align="center" alt="sql" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5108/5108922.png">
+  <img align="center" alt="sql" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/1199/1199128.png">
  
   
   
