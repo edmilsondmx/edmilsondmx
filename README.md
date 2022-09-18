@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente busco minha primeira oportunidade em Programação!
 - 🌱 Cursando FullStack - DevInHouse - Senai/SC - Turma NDD!
-- 📜 <a href="https://edmilsondmx.github.io/projeto-portifolio/" target="_blank" rel="external">Meu Portifólio</a></br>
+- 📜 <a href="https://edmilsondmx.github.io/Novo-Portifolio/" target="_blank" rel="external">Meu Portifólio</a></br>
 
 <div align="left">
   <a href="https://github.com/edmilsondmx">
