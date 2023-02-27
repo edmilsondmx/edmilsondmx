@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente busco minha primeira oportunidade em Programação!
-- 🌱 Cursando FullStack - DevInHouse - Senai/SC - Turma NDD!
+- 🌱 Desenvolvedor FullStack - DevInHouse - Senai/SC - (Angular / .Net Core) 900 horas
 - 📜 <a href="https://edmilsondmx.github.io/Novo-Portifolio/" target="_blank" rel="external">Meu Portifólio</a></br>
 
 <div align="left">
@@ -10,7 +10,7 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=edmilsondmx&show_icons=true&theme=dark&locale=en" alt="edmilsondmx"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmilsondmx&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<h2>Tecnologias</h1>
+<h2>Tecnologias & Ferramentas</h1>
 <div style="display: inline_block"><br>
   <img align="center" alt="angular" height="50" width="50" src="https://miro.medium.com/max/256/1*3H6_a9Srb655m3NiqlbbKQ.png">
   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,14 +25,17 @@
   <img align="center" alt="CSharp" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png">
   <img align="center" alt="CSharp" height="40" width="40" src="https://adrianwilczynski.gallerycdn.vsassets.io/extensions/adrianwilczynski/asp-net-core-snippet-pack/1.51.0/1586892181474/Microsoft.VisualStudio.Services.Icons.Default">
   <img align="center" alt="sql" height="45" width="45" src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png">
-  <img align="center" alt="sql" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5108/5108922.png">
-  <img align="center" alt="sql" height="45" width="45" src="https://cdn-icons-png.flaticon.com/512/1199/1199128.png">
+  <img align="center" alt="scrum" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5108/5108922.png">
+  <img align="center" alt="mysql" height="45" width="45" src="https://cdn-icons-png.flaticon.com/512/1199/1199128.png">
+  <img align="center" alt="react" height="45" width="45" src="https://cdn-icons-png.flaticon.com/512/875/875209.png">
+  <img align="center" alt="styled-component" height="45" width="45" src="https://blog.kakaocdn.net/dn/lkkIW/btqOc9QpJAQ/jR9kpyjrRSEW1RonVFrA7K/img.png">
+  <img align="center" alt="storybook" height="45" width="45" src="https://yt3.googleusercontent.com/R0wOpi3k0bm70OnRBULpgzqu787ifW6rqn-SjqwhKO8Gl_LQtVS0asyxKuesLDNNJgPfid7z=s900-c-k-c0x00ffffff-no-rj">
  
   
   
 </div>
   
-  ##
+<h2>Redes Sociais</h1>
   
 <div> 
   
@@ -42,13 +45,17 @@
   <a href="https://m.facebook.com/profile.php?id=100002829021506" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
  
 </div>
+  
+<br>
 
 <div>
   
   <img align="center" alt="mario" max-width="500em" src="https://github.com/edmilsondmx/projeto-portifolio/blob/main/imagem/IMG_0800.GIF?raw=true">
     
 </div>
-  ###
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{edmilsondmx}/count.svg" /></p> 
+  
+ <br>
+ 
+  <p align="center">Contator de Acessos: <img align="center" src="https://profile-counter.glitch.me/{edmilsondmx}/count.svg" /></p> 
 
 
