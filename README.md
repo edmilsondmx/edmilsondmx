@@ -29,7 +29,7 @@
   <img align="center" alt="mysql" height="45" width="45" src="https://cdn-icons-png.flaticon.com/512/1199/1199128.png">
   <img align="center" alt="react" height="45" width="45" src="https://cdn-icons-png.flaticon.com/512/875/875209.png">
   <img align="center" alt="styled-component" height="45" width="45" src="https://blog.kakaocdn.net/dn/lkkIW/btqOc9QpJAQ/jR9kpyjrRSEW1RonVFrA7K/img.png">
-  <img align="center" alt="storybook" height="45" width="45" src="https://yt3.googleusercontent.com/R0wOpi3k0bm70OnRBULpgzqu787ifW6rqn-SjqwhKO8Gl_LQtVS0asyxKuesLDNNJgPfid7z=s900-c-k-c0x00ffffff-no-rj">
+  <img align="center" alt="storybook" height="45" width="45" src="https://www.figma.com/community/plugin/1056265616080331589/icon">
  
   
   
