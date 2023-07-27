@@ -1,4 +1,4 @@
-### Hello, Wolrd!! Eu sou o Edmilson Gomes < /> 👋
+### < Hello, Wolrd!! /> Eu sou o Edmilson Gomes 👋
 
 
 - 🔭 Atualmente estou estudando Angular Avançado e Microserviços!
