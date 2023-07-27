@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou estudando Angular Avançado e Microserviços!
-- 🌱 Desenvolvedor FullStack (Angular / .Net Core)
+- 🌱 Desenvolvedor FullStack (Angular / .Net Core / SQL Server)
 - 📜 <a href="https://edmilsondmx.github.io/Novo-Portifolio/" target="_blank" rel="external">Meu Portifólio</a></br>
 
 <div align="left">
