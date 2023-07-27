@@ -1,8 +1,8 @@
-### Hello, Wolrd!! Eu sou o Edmilson Gomes 👋
+### Hello, Wolrd!! Eu sou o Edmilson Gomes < /> 👋
 
 
-- 🔭 Atualmente busco minha primeira oportunidade em Programação!
-- 🌱 Desenvolvedor FullStack - DevInHouse - Senai/SC - (Angular / .Net Core) 900 horas
+- 🔭 Atualmente estou estudando Angular Avançado e Microserviços!
+- 🌱 Desenvolvedor FullStack (Angular / .Net Core)
 - 📜 <a href="https://edmilsondmx.github.io/Novo-Portifolio/" target="_blank" rel="external">Meu Portifólio</a></br>
 
 <div align="left">
