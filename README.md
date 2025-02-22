@@ -1,7 +1,7 @@
 ### < Hello, Wolrd!! /> Eu sou o Edmilson Gomes 👋
 
 
-- 🔭 Atualmente estou estudando Angular Avançado e Microserviços!
+- 🔭 Atualmente sou Dev FullStack Júnior e trabalho com Angular, C#, SQL e Microserviços!
 - 🌱 Desenvolvedor FullStack (Angular / .Net Core / SQL Server)
 - 📜 <a href="https://edmilsondmx.github.io/Novo-Portifolio/" target="_blank" rel="external">Meu Portifólio</a></br>
 
